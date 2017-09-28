@@ -1,0 +1,104 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='WolframDesktop 11.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       161,          7]
+NotebookDataLength[      3072,         96]
+NotebookOptionsPosition[      2511,         75]
+NotebookOutlinePosition[      2885,         91]
+CellTagsIndexPosition[      2842,         88]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Software Engineering Wisdom", "Chapter",
+ CellChangeTimes->{{3.714715406936721*^9, 
+  3.714715423038785*^9}},ExpressionUUID->"c73455cf-9dce-4125-80dd-\
+899033cdc766"],
+
+Cell["\<\
+Straight from the frontlines of software engineering comes these words of \
+wisdom that follow. Excerpted from the notes section of the NKS book, notes \
+for chapter 2 section name: Intuition from practical computing:\
+\>", "Text",
+ CellChangeTimes->{{3.714715428177363*^9, 
+  3.714715543394494*^9}},ExpressionUUID->"e4fd9842-4420-492d-a448-\
+5e52ce6ed7b5"],
+
+Cell["\<\
+1. General-purpose computers and general-purpose programming languages can be \
+built.
+
+2. Different programs for doing all sorts of different things can be set up.
+
+3. Any given program can be implemented in many ways.
+
+4. Programs can behave in complicated and seemingly random ways  - \
+particularly when they are not working properly.
+
+5. Debugging a program can be difficult.
+
+6. It is often difficult to foresee what a program can do by reading its code.
+
+7. The lower the level of representation of the code for a program the more \
+difficult it tends to be to understand.
+
+8. Some computational problems are easy to state but hard to solve.
+
+9. Programs that simulate natural systems are among the most computationally \
+expensive.
+
+10. It is possible for people to create large programs - at least in pieces.
+
+11. It is almost always possible to optimize a program more, but the \
+optimized version may be more difficult to understand.
+
+12. Shorter programs are sometimes more efficient, but optimizations often \
+require many cases to be treated separately, making programs longer.
+
+13. If programs are patched too much, they typically stop working at all.\
+\>", "Text",
+ CellChangeTimes->{{3.714715549477126*^9, 3.714715835087593*^9}, {
+  3.7147158807107706`*^9, 
+  3.714716039469427*^9}},ExpressionUUID->"3d4f51a1-afb7-41b4-af97-\
+1beb24ac90dd"]
+}, Open  ]]
+},
+WindowSize->{1366, 695},
+WindowMargins->{{-8, Automatic}, {Automatic, -8}},
+Magnification:>0.9 Inherited,
+FrontEndVersion->"11.1 for Microsoft Windows (64-bit) (April 27, 2017)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[583, 22, 172, 3, 67, "Chapter", "ExpressionUUID" -> \
+"c73455cf-9dce-4125-80dd-899033cdc766"],
+Cell[758, 27, 367, 7, 28, "Text", "ExpressionUUID" -> \
+"e4fd9842-4420-492d-a448-5e52ce6ed7b5"],
+Cell[1128, 36, 1367, 36, 477, "Text", "ExpressionUUID" -> \
+"3d4f51a1-afb7-41b4-af97-1beb24ac90dd"]
+}, Open  ]]
+}
+]
+*)
+
